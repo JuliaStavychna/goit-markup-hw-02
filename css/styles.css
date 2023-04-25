@@ -78,7 +78,7 @@
   
   /* Hero */
   .hero {
-    background: var(--main-color);
+    background: var(--basic-color);
     text-align: center;
   }
   .hero-title {
