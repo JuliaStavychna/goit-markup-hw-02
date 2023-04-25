@@ -4,7 +4,7 @@
     --white-color: #ffffff;
     --text-color: #434455;
     --cloud-color: #f4f4fd;
-    --button--color: #404bbf;
+    --button-color: #404bbf;
     --accent-color: #e7e9fc;
   }
   
@@ -73,7 +73,7 @@
   }
   .address-contact:hover,
   .address-contact:focus {
-    color: var(--button-active-color);
+    color: var(--button-color);
   }
   
   /* Hero */
